@@ -1,2 +1,2 @@
 # hello-world
-GitHub introduction and starter
+I enjoy playing tennis and chess. 
